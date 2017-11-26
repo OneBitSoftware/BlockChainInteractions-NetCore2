@@ -1,0 +1,1 @@
+geth.exe --datadir "C:\Radi-Atanassov\ethereum" init ".\PrivateChain.json"
