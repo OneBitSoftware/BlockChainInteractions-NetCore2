@@ -1,0 +1,1 @@
+geth.exe --identity "PrivateChain" --datadir "C:\Radi-Atanassov\ethereum" --nodiscover --rpc --rpcapi="db,eth,net,web3,personal" --verbosity 3 --networkid 1900 console
